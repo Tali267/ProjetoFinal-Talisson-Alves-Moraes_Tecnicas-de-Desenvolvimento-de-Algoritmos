@@ -31,4 +31,4 @@ Para rodar este projeto localmente, você precisará de:
 A documentação exigida (Pseudocódigo, Algoritmo em Linguagem Estruturada e Fluxograma) está detalhada na pasta `/docs`, com foco na operação CRUD de **Cadastro de Paciente**.
 
 ## Autor
-Talisson Alves Moraes
+**Talisson Alves Moraes**
